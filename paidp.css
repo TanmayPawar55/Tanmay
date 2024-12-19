@@ -1,0 +1,85 @@
+.h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: White;
+}
+
+body{
+    background-color: black;
+}
+
+.sec1{
+    background-color: gray;
+    border-radius: 20px;
+    margin-right: 800px;
+
+}
+
+.h2{
+    text-align: center;
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 60px 60px 60px 60px;
+
+}
+
+.ps1{
+    text-align: center;
+}
+
+
+.but1{
+    border-radius: 5px;
+    background-color: aqua;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sec2{
+    background-color: gray;
+    border-radius: 20px;
+    padding: 60px 60px 60px 60px;
+    margin-left: 800px;
+}
+ 
+.h3{
+    background-color: gray;
+    color: aqua;
+    text-align: center;
+    text-shadow: 10px;
+}
+
+.but2{
+    background-color: aqua;
+    color: black;
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ps2{
+    text-align: center;
+}
+
+.ps3{
+    color: White;
+}
+
+.sec3{
+    background-color: gray;
+    border-radius: 20px;
+    padding: 60px 60px 60px 60px;
+    margin-right: 800px ;
+}
+
+.h4{
+    color: aqua;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.but4{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    border-radius: 5px;
+}
